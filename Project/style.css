@@ -1,0 +1,28 @@
+.img {
+    width: 300px;
+    height: 300px;
+  }
+
+.center {
+    border: 5px solid #FFFF00;
+    text-align: center;
+    }
+
+    .container {  
+        width: 300px;  
+        height: 300px;  
+        border: 5px solid red;  
+        display: grid;  
+        }  
+        button {  
+        background-color: lightblue;  
+        color: black;  
+        font-size: 25px;  
+        margin: auto;  
+        }  
+        p{  
+        font-size: 25px;  
+        }  
+   .card{
+      margin-right: auto;
+   }
